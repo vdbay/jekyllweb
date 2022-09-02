@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "README.txt"
-    url: https://vdbay.github.io/jekyllweb/readme/
+  - title: "Portfolio"
+    url: https://vdbay.github.io/jekyllweb/portfolio/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
